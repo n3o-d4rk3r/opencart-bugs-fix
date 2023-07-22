@@ -20,5 +20,4 @@ Do you have any Bugs, Errors, or Issues in your OpenCart Store? This is the righ
 13. Make Opencart SEO Friendly(I will provide some technic for you)
 14. Add or Remove Banner and 100+ more features
 
-
 Please send a message before ordering. I will start work immediately after your order if I am free and available!
