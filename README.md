@@ -1,6 +1,8 @@
 # Opencart Bugs Fix/Any Issues
 
-### Hire Now: <a href="https://www.upwork.com/services/product/development-it-opencart-bugs-removal-or-fix-opencart-errors-1641008263730761728">Hire Now<a/>
+### Community Leader : <a href="https://dly.to/ujnLXoXfkE8">OpenCart Community<a/>
+### Hire Me: <a href="https://www.upwork.com/services/product/development-it-opencart-bugs-removal-or-fix-opencart-errors-1641008263730761728">On Upwork<a/> OR On Email <a href="mailto:ictd.kabir@gmail.com">ictd.kabir@gmail.com</a>
+
 <br/>
 
 Do you have any Bugs, Errors, or Issues in your OpenCart Store? This is the right place for you, I will fix your OpenCart shop problems. I can work with any opencart version. I'm an OpenCart expert and trainer with 7 years of experience.
