@@ -1,3 +1,22 @@
-{% for product in products %}
-{{ product.tax }}%
+{% for product in order.product %}
+    <tr>
+        <td>{{ product.name }}
+            {% for option in product.option %}
+                <br/>
+                &nbsp;<small> - {{ option.name }}: {{ option.value }}</small>
+            {% endfor %}
+        </td>
+        <td>{{ product.model }}</td>
+        <td class="text-right">{{ product.quantity }}</td>
+        <td class="text-right">
+            {% if product.tax %}
+                {{ product.tax }}%
+            {% else %}
+                N/A
+            {% endif %}
+        </td>
+        <td class="text-right">{{ product.price }}</td>
+        <td class="text-right">{{ product.total }}</td>
+    </tr>
 {% endfor %}
+
